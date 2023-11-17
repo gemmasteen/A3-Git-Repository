@@ -3,7 +3,7 @@ WHEN green flag is clicked (begin)
 HIDE
 WAIT 1.25 seconds
 SHOW
-forever 
+FOREVER 
 GO TO (x,239)(y,-145)
 GLIDE 2 seconds to (x,-234)(y,-145)
 
