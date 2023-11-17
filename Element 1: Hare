@@ -1,8 +1,11 @@
+TO BEGIN GAME
 when green flag is clicked (begin)
 go to (x,-171)(y,-145)
 
+GAME IS OVER
 if game is over = F
 
+ENABLING THE PLAYER (Hare) TO JUMP UP AND DOWN TO AVOID OBSTACLES
 when space key is pressed
 repeat by 10
 change y by (-15)
@@ -11,4 +14,3 @@ change y by (-15)
 start sound pop
 change score by 1
 
-THE ABOVE CODING SEQUENCE CODES THE PLAYER TO JUMP UP AND DOWN.
