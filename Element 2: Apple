@@ -1,0 +1,13 @@
+STARTING POINT
+go to (x,239)(y,-145)
+
+LETTING THE FIRST OBSTACLE (Apple) APPEAR
+when green flag is clicked (begin)
+forever go to to (x, 239)(y,-145)
+glide 2 seconds to x (x,-234)(y,-145)
+
+GAME IS OVER WHEN HARE HITS OBSTACLE (Apple)
+when green flag is clicked 
+wait until touching HARE
+set Game Over to F
+stop all
